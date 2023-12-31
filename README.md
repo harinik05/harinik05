@@ -1,16 +1,27 @@
 ### Hi there 👋
 
-<!--
-**harinik05/harinik05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Harini, a 2nd year Computer Engineering student at the University of Waterloo. I'm a software developer, women in tech advocate, and love morning hikes 🌳 🐦
 
-Here are some ideas to get you started:
+This January, I'll be working on a special AI/ML project along with data engineering skills and pipelines.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently **seeking Fall 2024** internships. Feel free to contact me for any projects or upcoming positions!
+
+## 🎯 Currently...
+- Working towards solving Dynamic Programming and Graphs questions
+- Participating in occasional contests on LeetCode
+- Learning [TerraForm](https://developer.hashicorp.com/terraform/tutorials/aws-get-started) and its wonders on AWS infrastructure
+
+## Previously...
+- Worked on the data engineering side and DevOps for notification system using AWS with Purolator Inc.
+- Designed the severless backend system with interactive frontend on React web app for CloudSmartGuru Inc.
+- Integrated hashing, X-API keys, and DDoS secure systems for CHETAL application with Cisco
+- Participated in Computational Fluid Dynamics research, along with building skills in CAD modelling and process engineering at McGill University
+
+## Projects I've Worked On...
+- 
+
+
+
+
+
+
