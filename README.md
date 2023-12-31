@@ -18,10 +18,13 @@ I'm currently **seeking Fall 2024** internships. Feel free to contact me for any
 - Participated in Computational Fluid Dynamics research, along with building skills in CAD modelling and process engineering at McGill University
 
 ## Projects I've Worked On...
-- DialogiXpert AI, AI-based web application using LLMs and semantic search for streamlining call center process
-
+- DialogiXpert AI, AI-based web application using LLMs and semantic search on Azure for streamlining call center process
+- YesProf, extension to Zoom application built using Pandas, Matplotlib, TensorFlow, and OpenCV, to aid virtual learning
+- HariniGiftsKart, built using Tkinter on Python
 
 ## Contact Me...
+- [Email](mailto:h3karthi@uwaterloo.ca)
+- [Linkedin](https://www.linkedin.com/in/harini-karthik-612346216/)
 
 
 
