@@ -19,7 +19,10 @@ I'm currently **seeking Fall 2024** internships. Feel free to contact me for any
 
 ## Projects I've Worked On...
 - DialogiXpert AI, AI-based web application using LLMs and semantic search for streamlining call center process
-- 
+
+
+## Contact Me...
+
 
 
 
