@@ -18,9 +18,9 @@ I'm currently **seeking Fall 2024** internships. Feel free to contact me for any
 - Participated in Computational Fluid Dynamics research, along with building skills in CAD modelling and process engineering at McGill University
 
 ## Projects I've Worked On...
-- DialogiXpert AI, AI-based web application using LLMs and semantic search on Azure for streamlining call center process
-- YesProf, extension to Zoom application built using Pandas, Matplotlib, TensorFlow, and OpenCV, to aid virtual learning
-- HariniGiftsKart, built using Tkinter on Python
+- [DialogiXpert AI](https://github.com/harinik05/Call-Center-AI), AI-based web application using LLMs and semantic search on Azure for streamlining call center process
+- [YesProf](https://devpost.com/software/yesprof-novel-based-approach-to-facilitate-virtual-learning), extension to Zoom application built using Pandas, Matplotlib, TensorFlow, and OpenCV, to aid virtual learning
+- [HariniGiftsKart](https://github.com/harinik05/harini-gifts-kart), GUI-based E-commerce application built using Tkinter on Python
 
 ## Contact Me...
 - [Email](mailto:h3karthi@uwaterloo.ca)
