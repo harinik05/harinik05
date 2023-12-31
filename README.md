@@ -18,6 +18,7 @@ I'm currently **seeking Fall 2024** internships. Feel free to contact me for any
 - Participated in Computational Fluid Dynamics research, along with building skills in CAD modelling and process engineering at McGill University
 
 ## Projects I've Worked On...
+- DialogiXpert AI, AI-based web application using LLMs and semantic search for streamlining call center process
 - 
 
 
