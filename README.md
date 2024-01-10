@@ -4,7 +4,7 @@ I'm Harini, a 2nd year Computer Engineering student at the University of Waterlo
 
 This January, I'll be working on a special AI/ML project along with data engineering skills and pipelines.
 
-I'm currently **seeking Fall 2024 SWE** internships. Feel free to contact me for any projects or upcoming positions!
+I'm currently **seeking Summer & Fall 2024 SWE** internships. Feel free to contact me for any projects or upcoming positions!
 
 ## 🎯 Currently...
 - Working towards solving Dynamic Programming and Graphs questions
