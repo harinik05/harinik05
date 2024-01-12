@@ -6,7 +6,7 @@ This January, I'll be working on a special AI/ML project along with data enginee
 
 I'm currently **seeking Summer & Fall 2024 SWE** internships. Feel free to contact me for any projects or upcoming positions!
 
-## 🎯 Currently...
+## 🎯 Currently...     
 - Working towards solving Dynamic Programming and Graphs questions
 - Participating in occasional contests on LeetCode
 - Learning [TerraForm](https://developer.hashicorp.com/terraform/tutorials/aws-get-started) and its wonders on AWS infrastructure
