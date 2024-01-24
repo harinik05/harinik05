@@ -2,7 +2,7 @@
 
 I'm Harini, a 2nd year Computer Engineering student at the University of Waterloo. I'm a software developer, women in tech advocate, and love morning hikes 🌳 🐦
 
-This January, I'll be working on a special AI/ML project along with data engineering skills and pipelines.  
+This January, I'll be working on a special AI/ML project along with data engineering skills and pipelines.     
 
 I'm currently **seeking Summer & Fall 2024 SWE** internships. Feel free to contact me for any projects or upcoming positions!    
 
