@@ -12,7 +12,7 @@ I'm currently **seeking Fall 2024 SWE** internships. Feel free to contact me for
 - Learning [TerraForm](https://developer.hashicorp.com/terraform/tutorials/aws-get-started) and its wonders on AWS infrastructure
 
 ## 🚢 Previously...
-- Worked on the data engineering side and DevOps for notification system using AWS with [Purolator Inc](https://www.purolator.com/en).
+- Worked on the backend development side and DevOps for notification system using AWS with [Purolator Inc](https://www.purolator.com/en).
 - Designed the severless backend system with interactive frontend on React web app for CloudSmartGuru Inc.
 - Integrated hashing, X-API keys, and DDoS secure systems for CHETAL application with [Cisco](https://www.cisco.com/site/ca/en/index.html)
 - Participated in Computational Fluid Dynamics research, along with building skills in CAD modelling and process engineering at [McGill University](https://www.mcgill.ca/)
