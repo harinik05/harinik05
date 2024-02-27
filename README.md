@@ -9,7 +9,7 @@ I'm currently **seeking Fall 2024 SWE** internships. Feel free to contact me for
 ## 🎯 Currently...     
 - Working towards solving Dynamic Programming and Graphs questions
 - Participating in occasional contests on LeetCode
-- Learning [TerraForm](https://developer.hashicorp.com/terraform/tutorials/aws-get-started) and its wonders on AWS infrastructure
+- Learning [TerraForm](https://developer.hashicorp.com/terraform/tutorials/aws-get-started) and its wonders on AWS infrastructure   
 
 ## 🚢 Previously...
 - Worked on the backend development side and DevOps for notification system using AWS with [Purolator Inc](https://www.purolator.com/en).
