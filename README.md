@@ -1,6 +1,6 @@
 ### Hi there 👋
     
-I'm Harini, a 2nd year Computer Engineering student at the University of Waterloo. I'm a software developer, women in tech advocate, and love morning hikes 🌳 🐦   
+I'm Harini, a 2nd year Computer Engineering student at the University of Waterloo. I'm a software developer, women in tech advocate, and love morning hikes 🌳 🐦       
     
 This January, I'll be working on a special AI/ML project along with data engineering skills and pipelines.           
    
