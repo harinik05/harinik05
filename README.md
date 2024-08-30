@@ -1,6 +1,6 @@
 ### Hi there 👋
-    
-Loading...
+
+Currently a computer engineering student @UWaterloo, incoming SWE @ Arctic Wolf 
 
 
 
